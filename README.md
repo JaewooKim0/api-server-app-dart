@@ -15,7 +15,7 @@ This code handles HTTP GET requests to `/` and `/echo/<message>`
 
 ## Running with the Dart SDK
 
-You can run the example with the [Dart SDK](https://dart.dev/get-dart)
+You can run the app with the [Dart SDK](https://dart.dev/get-dart)
 like this:
 
 ```
